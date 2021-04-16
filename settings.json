@@ -1,0 +1,50 @@
+{
+    "files.associations": {
+        "*.inc": "asp"
+    },
+    "workbench.editor.enablePreview": false,
+    "files.autoGuessEncoding": true,
+    "editor.formatOnSave": true,
+    "html.format.enable": false,
+    "editor.fontSize": 13,
+    "editor.minimap.enabled": false,
+    "mssql.connections": [
+        {
+            "server": "10.12.1.83",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "dev_st",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "dev_back"
+        },
+        {
+            "server": "10.12.1.85",
+            "database": "dev6_batch",
+            "authenticationType": "SqlLogin",
+            "user": "dev_st",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "dev_batch"
+        }
+    ],
+    "vim.handleKeys": {
+        "<C-w>": false
+    },
+    "vim.autoSwitchInputMethod.enable": true,
+    "vim.autoSwitchInputMethod.defaultIM": "0",
+    "vim.autoSwitchInputMethod.obtainIMCmd": "C:\\Users\\kazuma.arimura\\zenhan\\bin64\\zenhan.exe",
+    "vim.autoSwitchInputMethod.switchIMCmd": "C:\\Users\\kazuma.arimura\\zenhan\\bin64\\zenhan.exe {im}",
+    "vim.statusBarColorControl": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Tonic (rainglow)",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "explorer.confirmDragAndDrop": false
+}
